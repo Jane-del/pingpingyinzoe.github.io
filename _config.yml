@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Shenzhen,China"
-title                    : #"Your Name / Site Title"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Pingping Yin"
 description              : &description "Southern University of Science and Technology"
