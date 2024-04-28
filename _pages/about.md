@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Pingping Yin. I am currently a second-year master’s student at the Department of Statistics and Data Science, Southern University of Science and Technology (SUSTech), advised by [Prof. Xiyun Jiao](https://faculty.sustech.edu.cn/?tagid=jiaoxy&iscss=1&snapid=1&orderby=date&go=1). Prior to that, I received a degree in Statistics from South China Agricultural University (SCAU) in 2022. This homepage contains some of my academic achievements and records, thank you for browsing. Here is my CV.
+My name is Pingping Yin. I am currently a second-year master’s student at the Department of Statistics and Data Science, Southern University of Science and Technology (SUSTech), advised by [Prof. Xiyun Jiao](https://faculty.sustech.edu.cn/?tagid=jiaoxy&iscss=1&snapid=1&orderby=date&go=1). Prior to that, I received a degree in Statistics from South China Agricultural University (SCAU) in 2022. This homepage contains some of my academic achievements and records, thank you for browsing. Here is my CV [yinpingping's Curriculum Vitae](../assets/yinpingping-cv.pdf) .
 
 Research Interests
 ======
