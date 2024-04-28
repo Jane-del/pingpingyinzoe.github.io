@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "Shenzhen-China"
+title                    : #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Pingping Yin"
 description              : &description "Southern University of Science and Technology"
 url                      : https://pingpingyin-smile.github.io/pingpingyinzoe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : #"academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,8 +25,8 @@ author:
   name             : "Pingping Yin"
   pronouns         : # example: "she/her"  
   bio              : "Southern University of Science and Technology"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : #"Earth"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "12232878@mail.sustech.edu.cn" 
 
