@@ -11,10 +11,10 @@ My name is Pingping Yin. I am currently a second-year master’s student at the 
 
 Research Interests
 ======
-## Bayesian Inference
-## MCMC Algorithms
-## Variational Inference
-
+- **Bayesian Inference** 
+- **MCMC Algorithms**
+- **Variational Inference**
+- **Machine Learning**
 Education
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
