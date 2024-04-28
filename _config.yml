@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://jane-del.github.io/pingpingyinzoe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Pingping Yin"
+description              : &description "Southern University of Science and Technology"
+url                      : https://pingpingyin-smile.github.io/pingpingyinzoe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -28,7 +28,7 @@ author:
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "12232878@mail.sustech.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
