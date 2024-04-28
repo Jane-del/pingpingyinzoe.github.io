@@ -11,18 +11,18 @@ My name is Pingping Yin. I am currently a second-year master’s student at the 
 
 Research Interests
 ======
-- **Bayesian Inference** 
-- **MCMC Algorithms**
-- **Variational Inference**
-- **Machine Learning**
+- Bayesian Inference
+- MCMC Algorithms
+- Variational Inference
+- Machine Learning
   
 Education
 ======
-- **B.S. in Statistics, South China Agricultural University, 2022** 
-- **M.S. in Mathematics, Southern University of Science and Technology, 2024 (expected)**
+- B.S. in Statistics, South China Agricultural University, 2022 
+- M.S. in Mathematics, Southern University of Science and Technology, 2024 (expected)
 
 Contact Information
 ------
-- **Email: 12232878@mail.sustech.edu.cn** 
-- **Phone: (+86) 181-3043-3432**
-- **Address: 1088 Xueyuan Avenue, Shenzhen 518055, P.R. China**
+- Email: 12232878@mail.sustech.edu.cn
+- Phone: (+86) 181-3043-3432
+- Address: 1088 Xueyuan Avenue, Shenzhen 518055, P.R. China
